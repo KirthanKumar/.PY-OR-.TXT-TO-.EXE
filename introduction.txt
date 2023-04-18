@@ -1,0 +1,9 @@
+Django is a python framework which uses python programming in the backend and helps to create websites. If u want to break ur website to many apps like 'shop' and 'blog' this can be achieved. The CRUD(create, read, update, delete)  operations can be done by django which can be used to manupulate data in database.
+
+Django is a Python framework that makes it easier to create web sites using Python.
+
+Django takes care of the difficult stuff so that you can concentrate on building your web applications.
+
+Django emphasizes reusability of components, also referred to as DRY (Don't Repeat Yourself), and comes with ready-to-use features like login system, database connection and CRUD operations (Create Read Update Delete).
+
+Django is especially helpful for database driven websites.

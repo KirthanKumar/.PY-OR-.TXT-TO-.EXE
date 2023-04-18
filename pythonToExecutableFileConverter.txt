@@ -1,0 +1,5 @@
+# .py to .exe conversion so that the program can be run in ones system who does not have python installed in.
+# pip install pyinstaller
+# if this is .txt file instead of .py file then also program can be executed by commanding .\pythonToExecutableFileConverter.txt, by opening windows powershell from this folder or in terminal. 
+# to convert .py to .exe
+# write in terminal or powershell: pyinstaller pythonToExecutableFileConverter.py or if it is a .txt file write pyinstaller pythonToExecutableFileConverter.txt
